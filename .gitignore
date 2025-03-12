@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Model checkpoints and cache
+save/
+*.pth
+*.ckpt
+*.bin
+
+# Logs
+*.log
+
+# Local development
+.DS_Store
+Thumbs.db
+
+# Data directories
+src/data/
+data/
