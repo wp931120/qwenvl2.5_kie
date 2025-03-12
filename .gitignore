@@ -31,5 +31,5 @@ save/
 Thumbs.db
 
 # Data directories
-src/data/
-data/
+src/data/train/
+src/data/eval/

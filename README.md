@@ -32,12 +32,12 @@ pip install -r requirements.txt
 
 ### 2. 数据准备
 
-将训练数据放置在 `data/train/` 目录下，评估数据放置在 `data/eval/` 目录下。
+将训练数据放置在 `data/train/` 目录下。
 
 ### 3. 模型训练
 
 ```bash
-python src/train.py --config configs/kie_config.py
+python src/train.py 
 ```
 
 ### 4. 启动Web服务
