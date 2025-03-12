@@ -48,6 +48,12 @@ python src/app.py
 
 访问 http://localhost:7860 即可使用Web界面。
 
+### Web界面预览
+
+![Web界面预览](src/ui.png)
+
+系统提供了直观的Web操作界面，支持图片上传、实时预测和结果展示。
+
 ## 配置说明
 
 在 `configs/kie_config.py` 中可以配置以下参数：
